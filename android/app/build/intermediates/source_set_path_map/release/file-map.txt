@@ -1,0 +1,12 @@
+com.example.insta_wall.app-jetified-window-java-1.0.0-beta04-0 C:\Users\hp\.gradle\caches\transforms-3\19bd0c0c255e2cba872905468b488353\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.insta_wall.app-core-1.6.0-1 C:\Users\hp\.gradle\caches\transforms-3\3a09c1622bf8c510ef9066d5659eb255\transformed\core-1.6.0\res
+com.example.insta_wall.app-jetified-window-1.0.0-beta04-2 C:\Users\hp\.gradle\caches\transforms-3\831e6c0f148ce603df2aaf66cc768843\transformed\jetified-window-1.0.0-beta04\res
+com.example.insta_wall.app-jetified-annotation-experimental-1.1.0-3 C:\Users\hp\.gradle\caches\transforms-3\c67eecbc0726ff31bf884d5c5f7cc8c2\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.insta_wall.app-pngs-4 D:\insta_wall\android\app\build\generated\res\pngs\release
+com.example.insta_wall.app-resValues-5 D:\insta_wall\android\app\build\generated\res\resValues\release
+com.example.insta_wall.app-rs-6 D:\insta_wall\android\app\build\generated\res\rs\release
+com.example.insta_wall.app-mergeReleaseResources-7 D:\insta_wall\android\app\build\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.example.insta_wall.app-mergeReleaseResources-8 D:\insta_wall\android\app\build\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.example.insta_wall.app-merged_res-9 D:\insta_wall\android\app\build\intermediates\merged_res\release
+com.example.insta_wall.app-main-10 D:\insta_wall\android\app\src\main\res
+com.example.insta_wall.app-release-11 D:\insta_wall\android\app\src\release\res

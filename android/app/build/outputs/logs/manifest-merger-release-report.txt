@@ -1,0 +1,167 @@
+-- Merging decision tree log ---
+application
+INJECTED from D:\insta_wall\android\app\src\main\AndroidManifest.xml:2:5-32:19
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\hp\.gradle\caches\transforms-3\831e6c0f148ce603df2aaf66cc768843\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\hp\.gradle\caches\transforms-3\831e6c0f148ce603df2aaf66cc768843\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.core:core:1.6.0] C:\Users\hp\.gradle\caches\transforms-3\3a09c1622bf8c510ef9066d5659eb255\transformed\core-1.6.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.6.0] C:\Users\hp\.gradle\caches\transforms-3\3a09c1622bf8c510ef9066d5659eb255\transformed\core-1.6.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\hp\.gradle\caches\transforms-3\05f04fc55a5505098fe4df6ed63bfff7\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\hp\.gradle\caches\transforms-3\05f04fc55a5505098fe4df6ed63bfff7\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.6.0] C:\Users\hp\.gradle\caches\transforms-3\3a09c1622bf8c510ef9066d5659eb255\transformed\core-1.6.0\AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from D:\insta_wall\android\app\src\main\AndroidManifest.xml:3:9-35
+	android:icon
+		ADDED from D:\insta_wall\android\app\src\main\AndroidManifest.xml:5:9-43
+	android:name
+		INJECTED from D:\insta_wall\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\insta_wall\android\app\src\main\AndroidManifest.xml:4:9-42
+manifest
+ADDED from D:\insta_wall\android\app\src\main\AndroidManifest.xml:1:1-44:12
+INJECTED from D:\insta_wall\android\app\src\main\AndroidManifest.xml:1:1-44:12
+INJECTED from D:\insta_wall\android\app\src\main\AndroidManifest.xml:1:1-44:12
+INJECTED from D:\insta_wall\android\app\src\main\AndroidManifest.xml:1:1-44:12
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\hp\.gradle\caches\transforms-3\19bd0c0c255e2cba872905468b488353\transformed\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\hp\.gradle\caches\transforms-3\831e6c0f148ce603df2aaf66cc768843\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\hp\.gradle\caches\transforms-3\17a1928c546ae92d824c35a0374656d0\transformed\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\hp\.gradle\caches\transforms-3\0b81d590cb55eb1fb6e750fda888dd6c\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\hp\.gradle\caches\transforms-3\f23d7a2efc8971c0a5bf376b06ea1d72\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\hp\.gradle\caches\transforms-3\098bd19004589f5e05caae902cf47575\transformed\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\hp\.gradle\caches\transforms-3\40e865979c90291942a27beaa217d4f0\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.6.0] C:\Users\hp\.gradle\caches\transforms-3\3a09c1622bf8c510ef9066d5659eb255\transformed\core-1.6.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\hp\.gradle\caches\transforms-3\5c99582746537931e5fc475b53159b50\transformed\lifecycle-runtime-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\hp\.gradle\caches\transforms-3\a7c8b2c5462e4f3bfe6f064207e0b500\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\hp\.gradle\caches\transforms-3\670976e9b30093ad374a7d3309d9bde1\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\hp\.gradle\caches\transforms-3\8a4e3095b41f32c24f72102a556dbb93\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\hp\.gradle\caches\transforms-3\897d575fddb71f6879e1265a25dea36f\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\hp\.gradle\caches\transforms-3\2d191a72bf777caacf6fc18faf30a49b\transformed\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\hp\.gradle\caches\transforms-3\05f04fc55a5505098fe4df6ed63bfff7\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\hp\.gradle\caches\transforms-3\555f9ba713b28d8f1a74cf07552c7a8d\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\hp\.gradle\caches\transforms-3\c67eecbc0726ff31bf884d5c5f7cc8c2\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
+INJECTED from D:\insta_wall\android\app\src\main\AndroidManifest.xml:1:1-44:12
+INJECTED from D:\insta_wall\android\app\src\main\AndroidManifest.xml:1:1-44:12
+INJECTED from D:\insta_wall\android\app\src\main\AndroidManifest.xml:1:1-44:12
+	package
+		INJECTED from D:\insta_wall\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\insta_wall\android\app\src\main\AndroidManifest.xml:1:1-44:12
+		INJECTED from D:\insta_wall\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\insta_wall\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\insta_wall\android\app\src\main\AndroidManifest.xml:1:1-44:12
+		INJECTED from D:\insta_wall\android\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\insta_wall\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\insta_wall\android\app\src\main\AndroidManifest.xml:1:1-44:12
+		INJECTED from D:\insta_wall\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\insta_wall\android\app\src\main\AndroidManifest.xml:1:11-69
+queries
+ADDED from D:\insta_wall\android\app\src\main\AndroidManifest.xml:38:5-43:15
+intent#action:name:android.intent.action.PROCESS_TEXT+data:mimeType:text/plain
+ADDED from D:\insta_wall\android\app\src\main\AndroidManifest.xml:39:9-42:18
+action#android.intent.action.PROCESS_TEXT
+ADDED from D:\insta_wall\android\app\src\main\AndroidManifest.xml:40:13-72
+	android:name
+		ADDED from D:\insta_wall\android\app\src\main\AndroidManifest.xml:40:21-70
+data
+ADDED from D:\insta_wall\android\app\src\main\AndroidManifest.xml:41:13-50
+	android:mimeType
+		ADDED from D:\insta_wall\android\app\src\main\AndroidManifest.xml:41:19-48
+uses-sdk
+INJECTED from D:\insta_wall\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\insta_wall\android\app\src\main\AndroidManifest.xml
+INJECTED from D:\insta_wall\android\app\src\main\AndroidManifest.xml
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\hp\.gradle\caches\transforms-3\19bd0c0c255e2cba872905468b488353\transformed\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\hp\.gradle\caches\transforms-3\19bd0c0c255e2cba872905468b488353\transformed\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\hp\.gradle\caches\transforms-3\831e6c0f148ce603df2aaf66cc768843\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\hp\.gradle\caches\transforms-3\831e6c0f148ce603df2aaf66cc768843\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\hp\.gradle\caches\transforms-3\17a1928c546ae92d824c35a0374656d0\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\hp\.gradle\caches\transforms-3\17a1928c546ae92d824c35a0374656d0\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\hp\.gradle\caches\transforms-3\0b81d590cb55eb1fb6e750fda888dd6c\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\hp\.gradle\caches\transforms-3\0b81d590cb55eb1fb6e750fda888dd6c\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\hp\.gradle\caches\transforms-3\f23d7a2efc8971c0a5bf376b06ea1d72\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\hp\.gradle\caches\transforms-3\f23d7a2efc8971c0a5bf376b06ea1d72\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\hp\.gradle\caches\transforms-3\098bd19004589f5e05caae902cf47575\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\hp\.gradle\caches\transforms-3\098bd19004589f5e05caae902cf47575\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\hp\.gradle\caches\transforms-3\40e865979c90291942a27beaa217d4f0\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\hp\.gradle\caches\transforms-3\40e865979c90291942a27beaa217d4f0\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.6.0] C:\Users\hp\.gradle\caches\transforms-3\3a09c1622bf8c510ef9066d5659eb255\transformed\core-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.6.0] C:\Users\hp\.gradle\caches\transforms-3\3a09c1622bf8c510ef9066d5659eb255\transformed\core-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\hp\.gradle\caches\transforms-3\5c99582746537931e5fc475b53159b50\transformed\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\hp\.gradle\caches\transforms-3\5c99582746537931e5fc475b53159b50\transformed\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\hp\.gradle\caches\transforms-3\a7c8b2c5462e4f3bfe6f064207e0b500\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\hp\.gradle\caches\transforms-3\a7c8b2c5462e4f3bfe6f064207e0b500\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\hp\.gradle\caches\transforms-3\670976e9b30093ad374a7d3309d9bde1\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\hp\.gradle\caches\transforms-3\670976e9b30093ad374a7d3309d9bde1\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\hp\.gradle\caches\transforms-3\8a4e3095b41f32c24f72102a556dbb93\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\hp\.gradle\caches\transforms-3\8a4e3095b41f32c24f72102a556dbb93\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\hp\.gradle\caches\transforms-3\897d575fddb71f6879e1265a25dea36f\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\hp\.gradle\caches\transforms-3\897d575fddb71f6879e1265a25dea36f\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\hp\.gradle\caches\transforms-3\2d191a72bf777caacf6fc18faf30a49b\transformed\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\hp\.gradle\caches\transforms-3\2d191a72bf777caacf6fc18faf30a49b\transformed\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\hp\.gradle\caches\transforms-3\05f04fc55a5505098fe4df6ed63bfff7\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\hp\.gradle\caches\transforms-3\05f04fc55a5505098fe4df6ed63bfff7\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\hp\.gradle\caches\transforms-3\555f9ba713b28d8f1a74cf07552c7a8d\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\hp\.gradle\caches\transforms-3\555f9ba713b28d8f1a74cf07552c7a8d\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\hp\.gradle\caches\transforms-3\c67eecbc0726ff31bf884d5c5f7cc8c2\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\hp\.gradle\caches\transforms-3\c67eecbc0726ff31bf884d5c5f7cc8c2\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+INJECTED from D:\insta_wall\android\app\src\main\AndroidManifest.xml
+INJECTED from D:\insta_wall\android\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\insta_wall\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\insta_wall\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\insta_wall\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\insta_wall\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\insta_wall\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\insta_wall\android\app\src\main\AndroidManifest.xml
+activity#com.example.insta_wall.MainActivity
+ADDED from D:\insta_wall\android\app\src\main\AndroidManifest.xml:6:9-26:20
+	android:launchMode
+		ADDED from D:\insta_wall\android\app\src\main\AndroidManifest.xml:9:13-43
+	android:hardwareAccelerated
+		ADDED from D:\insta_wall\android\app\src\main\AndroidManifest.xml:12:13-47
+	android:windowSoftInputMode
+		ADDED from D:\insta_wall\android\app\src\main\AndroidManifest.xml:13:13-55
+	android:exported
+		ADDED from D:\insta_wall\android\app\src\main\AndroidManifest.xml:8:13-36
+	android:configChanges
+		ADDED from D:\insta_wall\android\app\src\main\AndroidManifest.xml:11:13-163
+	android:theme
+		ADDED from D:\insta_wall\android\app\src\main\AndroidManifest.xml:10:13-47
+	android:name
+		ADDED from D:\insta_wall\android\app\src\main\AndroidManifest.xml:7:13-41
+meta-data#io.flutter.embedding.android.NormalTheme
+ADDED from D:\insta_wall\android\app\src\main\AndroidManifest.xml:18:13-21:17
+	android:resource
+		ADDED from D:\insta_wall\android\app\src\main\AndroidManifest.xml:20:15-52
+	android:name
+		ADDED from D:\insta_wall\android\app\src\main\AndroidManifest.xml:19:15-70
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\insta_wall\android\app\src\main\AndroidManifest.xml:22:13-25:29
+action#android.intent.action.MAIN
+ADDED from D:\insta_wall\android\app\src\main\AndroidManifest.xml:23:17-68
+	android:name
+		ADDED from D:\insta_wall\android\app\src\main\AndroidManifest.xml:23:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\insta_wall\android\app\src\main\AndroidManifest.xml:24:17-76
+	android:name
+		ADDED from D:\insta_wall\android\app\src\main\AndroidManifest.xml:24:27-74
+meta-data#flutterEmbedding
+ADDED from D:\insta_wall\android\app\src\main\AndroidManifest.xml:29:9-31:33
+	android:value
+		ADDED from D:\insta_wall\android\app\src\main\AndroidManifest.xml:31:13-30
+	android:name
+		ADDED from D:\insta_wall\android\app\src\main\AndroidManifest.xml:30:13-44
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\hp\.gradle\caches\transforms-3\831e6c0f148ce603df2aaf66cc768843\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\hp\.gradle\caches\transforms-3\831e6c0f148ce603df2aaf66cc768843\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\hp\.gradle\caches\transforms-3\831e6c0f148ce603df2aaf66cc768843\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\hp\.gradle\caches\transforms-3\831e6c0f148ce603df2aaf66cc768843\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\hp\.gradle\caches\transforms-3\831e6c0f148ce603df2aaf66cc768843\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\hp\.gradle\caches\transforms-3\831e6c0f148ce603df2aaf66cc768843\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:29:13-51
